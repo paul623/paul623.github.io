@@ -1,14 +1,14 @@
 # Site settings
-name: 董小姐
-location: 大连
-company: IBM
-position: Java开发工程师
-github: https://github.com/
+name: 巴塞罗那的余晖
+location: China
+company: None
+position: Java开发工程师、Android工程师
+github: https://github.com/paul623
 facebook: https://www.facebook.com/
-phone: 1580424XXXX
-email: xxxx@xxx.com
+phone: 17851559306
+email: zhubaoluo@outlook.com
 
-baseurl: "/resume.io"
+baseurl: "/paul623.github.io/"
 
 permalink: /:year/:month/:day/:title/
 
