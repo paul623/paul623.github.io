@@ -8,7 +8,7 @@ facebook: https://www.facebook.com/
 phone: 17851559306
 email: zhubaoluo@outlook.com
 
-baseurl: "/paul623.github.io/"
+baseurl: "/paul623.github.io"
 
 permalink: /:year/:month/:day/:title/
 
